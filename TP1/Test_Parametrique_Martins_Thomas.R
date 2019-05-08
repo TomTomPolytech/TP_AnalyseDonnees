@@ -1,3 +1,5 @@
+ # AUTEUR : THOMAS MARTINS INFO4A - InSI
+
 fct_t <- function(X,moy){
   res = abs( (moy- mean(X)))/(sd(X)/sqrt(length(X)) ) 
   res
