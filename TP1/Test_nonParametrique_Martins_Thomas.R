@@ -1,3 +1,5 @@
+ # AUTEUR : THOMAS MARTINS INFO4A - InSI
+
 khi_deux <- function(th, obs){
   k = length(th)
   somme=0
