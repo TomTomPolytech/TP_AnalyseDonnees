@@ -1,3 +1,5 @@
+ # AUTEUR : THOMAS MARTINS INFO4A - InSI
+
 # fonction question 2)
 coeff_r<-function(X, Y){
   cov=cov(X,Y)
